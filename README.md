@@ -69,9 +69,9 @@ Goal Point: (390, 290)
 ## Build
 
 ```
-git clone https://github.com/rpande1996/Optical_Flow
-cd Optical_Flow/src
-python Optical_Flow.py
+git clone https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid
+cd Dijkstra_Goal_Detection_Rigid/src
+python Dijkstra_Goal_Detection_Rigid/.py
 ```
 Enter the following parameters:-
 ```
