@@ -31,7 +31,7 @@ certain clearance from the obstacles. This code visually represents the clearanc
 ```
 MIT License
 
-Copyright (c) 2021 Rajan Pande
+Copyright (c) 2021 Rajan Pande, Abhilash Mane
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
