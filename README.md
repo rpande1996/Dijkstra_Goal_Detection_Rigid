@@ -1,4 +1,4 @@
-## AR_Plotting
+## Dijkstra_Goal_Detection_Rigid
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ---
 ## Contributors
