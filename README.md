@@ -64,7 +64,7 @@ Goal Point: (390, 290)
 
 - [Dijkstra Algorithm Representation:](https://youtu.be/vvrBrp0YNy4)
 
-![ezgif com-gif-maker](https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid/blob/main/media/gif/output.gif)
+![ezgif com-gif-maker](https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid/blob/main/media/gifs/output.gif)
 
 ## Build
 
