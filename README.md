@@ -71,7 +71,7 @@ Goal Point: (390, 290)
 ```
 git clone https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid
 cd Dijkstra_Goal_Detection_Rigid/src
-python Dijkstra_Goal_Detection_Rigid/.py
+python Dijkstra_rigid_Vis.py
 ```
 Enter the following parameters:-
 ```
